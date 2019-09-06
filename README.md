@@ -4,7 +4,9 @@ Evaluates whether the formula is possible
 The input can be on several lines for example
 
 (a-b)
+
 a-b
+
 [(a-b)]
 
 1. First it will check if each are balanced. If not, it will print error and where it is located
